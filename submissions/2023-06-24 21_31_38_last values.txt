@@ -1,0 +1,55 @@
+
+Modell: RandomForest
+Durc. Accuracy: 0.7429331232148134 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7262569832402235 (Testdatensatz)
+Precision: 	0.9354838709677419 (Testdatensatz)
+Recall: 	0.3815789473684211 (Testdatensatz)
+F1 Score: 	0.5420560747663552 (Testdatensatz)
+Modell: ExtraTrees
+Durc. Accuracy: 0.8132079188417217 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7653631284916201 (Testdatensatz)
+Precision: 	0.7833333333333333 (Testdatensatz)
+Recall: 	0.618421052631579 (Testdatensatz)
+F1 Score: 	0.6911764705882353 (Testdatensatz)
+Modell: AdaBoost
+Durc. Accuracy: 0.8413079877868611 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7877094972067039 (Testdatensatz)
+Precision: 	0.7878787878787878 (Testdatensatz)
+Recall: 	0.6842105263157895 (Testdatensatz)
+F1 Score: 	0.732394366197183 (Testdatensatz)
+Modell: GradientBoosting
+Durc. Accuracy: 0.8272234807446075 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7932960893854749 (Testdatensatz)
+Precision: 	0.782608695652174 (Testdatensatz)
+Recall: 	0.7105263157894737 (Testdatensatz)
+F1 Score: 	0.7448275862068965 (Testdatensatz)
+Modell: SVC
+Durc. Accuracy: 0.8005220131980695 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7597765363128491 (Testdatensatz)
+Precision: 	0.7704918032786885 (Testdatensatz)
+Recall: 	0.618421052631579 (Testdatensatz)
+F1 Score: 	0.6861313868613139 (Testdatensatz)
+Modell: Bagging_SVC
+Durc. Accuracy: 0.8258642765685019 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7597765363128491 (Testdatensatz)
+Precision: 	0.7538461538461538 (Testdatensatz)
+Recall: 	0.6447368421052632 (Testdatensatz)
+F1 Score: 	0.6950354609929077 (Testdatensatz)
+Modell: Bagging_RandomForest
+Durc. Accuracy: 0.8427459864079582 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7932960893854749 (Testdatensatz)
+Precision: 	0.8545454545454545 (Testdatensatz)
+Recall: 	0.618421052631579 (Testdatensatz)
+F1 Score: 	0.7175572519083969 (Testdatensatz)
+Modell: Bagging_DecisionTree
+Durc. Accuracy: 0.8342952821826062 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7821229050279329 (Testdatensatz)
+Precision: 	0.8032786885245902 (Testdatensatz)
+Recall: 	0.6447368421052632 (Testdatensatz)
+F1 Score: 	0.7153284671532848 (Testdatensatz)
+Modell: GridSearchBest
+Durc. Accuracy: 0.8398995370826358 (cross val. auf Trainingsdatensatz)
+Accuracy: 	0.7932960893854749 (Testdatensatz)
+Precision: 	0.8305084745762712 (Testdatensatz)
+Recall: 	0.6447368421052632 (Testdatensatz)
+F1 Score: 	0.7259259259259259 (Testdatensatz)
